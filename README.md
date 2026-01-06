@@ -1,4 +1,4 @@
-# Library Management System (library_ms)
+# Library Management System
 
 A Spring Boot backend project for managing a library system with books, users, and borrow records. The system uses **Spring Data JPA** for database interactions with **MySQL** and provides REST APIs for CRUD operations. It also automatically updates the status of borrowed books based on due dates and return dates.
 
